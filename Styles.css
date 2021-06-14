@@ -1,0 +1,12 @@
+header{color: rgb(255, 255, 255);background-image: url(https://i.vimeocdn.com/video/590328518_640x360.jpg); text-align: center;background-repeat: repeat; width: 100%; font-family: 'Bebas Neue';}
+nav
+h2{text-decoration-line: underline;}
+aside{visibility: unset;}
+#proximamente{background-image: url(https://img.freepik.com/vector-gratis/fondo-abstracto-azul-formas-geometricas_1035-17545.jpg?size=626&ext=jpg);background-repeat: no-repeat;}
+.anuncio{font-family: sans-serif; font-size: 28px;text-align: center;}
+#plataforma{font-size: 28;border-color: lightcoral;}
+
+.linkss{font-family: fantasy; text-align: right; font-size: 28px;border: lawngreen;color: cadetblue;}
+
+#recomendacion{border: darkgreen; border-width: 2px; border-style: double;background-color: khaki;}
+
